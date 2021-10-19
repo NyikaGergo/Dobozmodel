@@ -1,0 +1,23 @@
+.doboz {
+    background-color: dimgray;
+padding: 20px;
+width: 80%;
+border: 20px double darkblue;
+}
+
+#pöttyös{
+border: 20px dotted lightgreen;
+background-color: aqua;
+margin: 0;}
+
+.doboz h1 {
+    background-color: royalblue;
+    margin: 0;
+}
+
+
+#vonalas{
+
+    border: 20px dashed red;
+    
+}
